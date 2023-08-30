@@ -1,0 +1,13 @@
+body {
+    background-color: antiquewhite;
+}
+
+button {
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 5px;
+}
